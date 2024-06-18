@@ -1,0 +1,13 @@
+D:\sk2_1\user\C#\midterm\midterm\bin\Debug\midterm.exe.config
+D:\sk2_1\user\C#\midterm\midterm\bin\Debug\midterm.exe
+D:\sk2_1\user\C#\midterm\midterm\bin\Debug\midterm.pdb
+D:\sk2_1\user\C#\midterm\midterm\obj\Debug\midterm.csprojAssemblyReference.cache
+D:\sk2_1\user\C#\midterm\midterm\obj\Debug\midterm.Properties.Resources.resources
+D:\sk2_1\user\C#\midterm\midterm\obj\Debug\midterm.csproj.GenerateResource.cache
+D:\sk2_1\user\C#\midterm\midterm\obj\Debug\midterm.csproj.CoreCompileInputs.cache
+D:\sk2_1\user\C#\midterm\midterm\obj\Debug\midterm.exe
+D:\sk2_1\user\C#\midterm\midterm\obj\Debug\midterm.pdb
+D:\sk2_1\user\C#\midterm\midterm\obj\Debug\midterm.Mac.resources
+D:\sk2_1\user\C#\midterm\midterm\obj\Debug\Interop.MediaPlayer.dll
+D:\sk2_1\user\C#\midterm\midterm\obj\Debug\Interop.WMPLib.dll
+D:\sk2_1\user\C#\midterm\midterm\obj\Debug\midterm.csproj.ResolveComReference.cache

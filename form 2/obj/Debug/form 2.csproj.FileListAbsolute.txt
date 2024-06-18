@@ -1,0 +1,15 @@
+D:\sk2_1\user\C#\form 2\bin\Debug\form 2.exe.config
+D:\sk2_1\user\C#\form 2\bin\Debug\form 2.exe
+D:\sk2_1\user\C#\form 2\bin\Debug\form 2.pdb
+D:\sk2_1\user\C#\form 2\obj\Debug\form 2.csprojAssemblyReference.cache
+D:\sk2_1\user\C#\form 2\obj\Debug\form_2.Form1.resources
+D:\sk2_1\user\C#\form 2\obj\Debug\form_2.Properties.Resources.resources
+D:\sk2_1\user\C#\form 2\obj\Debug\form 2.csproj.GenerateResource.cache
+D:\sk2_1\user\C#\form 2\obj\Debug\form 2.csproj.CoreCompileInputs.cache
+D:\sk2_1\user\C#\form 2\obj\Debug\form 2.exe
+D:\sk2_1\user\C#\form 2\obj\Debug\form 2.pdb
+D:\sk2_1\user\C#\form 2\bin\Debug\Interop.WMPLib.dll
+D:\sk2_1\user\C#\form 2\bin\Debug\AxInterop.WMPLib.dll
+D:\sk2_1\user\C#\form 2\obj\Debug\Interop.WMPLib.dll
+D:\sk2_1\user\C#\form 2\obj\Debug\AxInterop.WMPLib.dll
+D:\sk2_1\user\C#\form 2\obj\Debug\form 2.csproj.ResolveComReference.cache

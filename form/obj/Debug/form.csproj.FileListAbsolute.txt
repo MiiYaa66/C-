@@ -1,0 +1,10 @@
+D:\sk2_1\user\C#\form\bin\Debug\form.exe.config
+D:\sk2_1\user\C#\form\bin\Debug\form.exe
+D:\sk2_1\user\C#\form\bin\Debug\form.pdb
+D:\sk2_1\user\C#\form\obj\Debug\form.csprojAssemblyReference.cache
+D:\sk2_1\user\C#\form\obj\Debug\form.Form1.resources
+D:\sk2_1\user\C#\form\obj\Debug\form.Properties.Resources.resources
+D:\sk2_1\user\C#\form\obj\Debug\form.csproj.GenerateResource.cache
+D:\sk2_1\user\C#\form\obj\Debug\form.csproj.CoreCompileInputs.cache
+D:\sk2_1\user\C#\form\obj\Debug\form.exe
+D:\sk2_1\user\C#\form\obj\Debug\form.pdb

@@ -1,0 +1,23 @@
+D:\sk2_1\user\C#\MDI form\bin\Debug\MDI form.exe.config
+D:\sk2_1\user\C#\MDI form\bin\Debug\MDI form.exe
+D:\sk2_1\user\C#\MDI form\bin\Debug\MDI form.pdb
+D:\sk2_1\user\C#\MDI form\bin\Debug\MidPrj.exe
+D:\sk2_1\user\C#\MDI form\bin\Debug\MidPrj.pdb
+D:\sk2_1\user\C#\MDI form\bin\Debug\MidPrj.exe.config
+D:\sk2_1\user\C#\MDI form\obj\Debug\MDI form.csprojAssemblyReference.cache
+D:\sk2_1\user\C#\MDI form\obj\Debug\MDI_form.Form1.resources
+D:\sk2_1\user\C#\MDI form\obj\Debug\MDI_form.Properties.Resources.resources
+D:\sk2_1\user\C#\MDI form\obj\Debug\MDI form.csproj.GenerateResource.cache
+D:\sk2_1\user\C#\MDI form\obj\Debug\MDI form.csproj.CoreCompileInputs.cache
+D:\sk2_1\user\C#\MDI form\obj\Debug\MDI form.csproj.CopyComplete
+D:\sk2_1\user\C#\MDI form\obj\Debug\MDI form.exe
+D:\sk2_1\user\C#\MDI form\obj\Debug\MDI form.pdb
+D:\sk2_1\user\C#\MDI form\obj\Debug\MDI_form.Form2.resources
+D:\sk2_1\user\C#\MDI form\obj\Debug\MDI_form.Form3.resources
+D:\sk2_1\user\C#\MDI form\obj\Debug\MDI_form.Form4.resources
+D:\sk2_1\user\C#\MDI form\bin\Debug\mid.exe
+D:\sk2_1\user\C#\MDI form\bin\Debug\期中專案.exe
+D:\sk2_1\user\C#\MDI form\bin\Debug\期中專案.pdb
+D:\sk2_1\user\C#\MDI form\bin\Debug\期中專案.exe.config
+D:\sk2_1\user\C#\MDI form\bin\Debug\mid.pdb
+D:\sk2_1\user\C#\MDI form\bin\Debug\mid.exe.config

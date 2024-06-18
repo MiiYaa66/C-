@@ -1,0 +1,10 @@
+D:\sk2_1\user\C#\piture\piture\bin\Debug\piture.exe.config
+D:\sk2_1\user\C#\piture\piture\bin\Debug\piture.exe
+D:\sk2_1\user\C#\piture\piture\bin\Debug\piture.pdb
+D:\sk2_1\user\C#\piture\piture\obj\Debug\piture.csprojAssemblyReference.cache
+D:\sk2_1\user\C#\piture\piture\obj\Debug\piture.Form1.resources
+D:\sk2_1\user\C#\piture\piture\obj\Debug\piture.Properties.Resources.resources
+D:\sk2_1\user\C#\piture\piture\obj\Debug\piture.csproj.GenerateResource.cache
+D:\sk2_1\user\C#\piture\piture\obj\Debug\piture.csproj.CoreCompileInputs.cache
+D:\sk2_1\user\C#\piture\piture\obj\Debug\piture.exe
+D:\sk2_1\user\C#\piture\piture\obj\Debug\piture.pdb

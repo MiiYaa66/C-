@@ -1,0 +1,10 @@
+D:\sk2_1\user\C#\course selection\obj\Debug\course selection.csprojAssemblyReference.cache
+D:\sk2_1\user\C#\course selection\obj\Debug\course_selection.Form1.resources
+D:\sk2_1\user\C#\course selection\obj\Debug\course_selection.Properties.Resources.resources
+D:\sk2_1\user\C#\course selection\obj\Debug\course selection.csproj.GenerateResource.cache
+D:\sk2_1\user\C#\course selection\obj\Debug\course selection.csproj.CoreCompileInputs.cache
+D:\sk2_1\user\C#\course selection\bin\Debug\course selection.exe.config
+D:\sk2_1\user\C#\course selection\bin\Debug\course selection.exe
+D:\sk2_1\user\C#\course selection\bin\Debug\course selection.pdb
+D:\sk2_1\user\C#\course selection\obj\Debug\course selection.exe
+D:\sk2_1\user\C#\course selection\obj\Debug\course selection.pdb

@@ -1,0 +1,10 @@
+C:\Users\hsuan\Desktop\C#程式設計\BMI_b0621104\BMI\bin\Debug\BMI.exe.config
+C:\Users\hsuan\Desktop\C#程式設計\BMI_b0621104\BMI\bin\Debug\BMI.exe
+C:\Users\hsuan\Desktop\C#程式設計\BMI_b0621104\BMI\bin\Debug\BMI.pdb
+C:\Users\hsuan\Desktop\C#程式設計\BMI_b0621104\BMI\obj\Debug\BMI.csprojAssemblyReference.cache
+C:\Users\hsuan\Desktop\C#程式設計\BMI_b0621104\BMI\obj\Debug\BMI.Properties.Resources.resources
+C:\Users\hsuan\Desktop\C#程式設計\BMI_b0621104\BMI\obj\Debug\BMI.csproj.GenerateResource.cache
+C:\Users\hsuan\Desktop\C#程式設計\BMI_b0621104\BMI\obj\Debug\BMI.csproj.CoreCompileInputs.cache
+C:\Users\hsuan\Desktop\C#程式設計\BMI_b0621104\BMI\obj\Debug\BMI.exe
+C:\Users\hsuan\Desktop\C#程式設計\BMI_b0621104\BMI\obj\Debug\BMI.pdb
+C:\Users\hsuan\Desktop\C#程式設計\BMI_b0621104\BMI\obj\Debug\BMI.BMI_Calculator.resources

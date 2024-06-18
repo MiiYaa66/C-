@@ -1,0 +1,36 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30523.141
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Test", "Test.csproj", "{9FE11922-BC48-4AFB-ACEB-50CBB92836AB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "check", "..\..\點菜單\check\check.csproj", "{2D04A47C-464C-44E2-AEB4-D5848FC01A81}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{DFA88E4C-D8D9-4026-8052-48EEE0FF7321}"
+	ProjectSection(SolutionItems) = preProject
+		TestSettings1.testsettings = TestSettings1.testsettings
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9FE11922-BC48-4AFB-ACEB-50CBB92836AB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9FE11922-BC48-4AFB-ACEB-50CBB92836AB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9FE11922-BC48-4AFB-ACEB-50CBB92836AB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9FE11922-BC48-4AFB-ACEB-50CBB92836AB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2D04A47C-464C-44E2-AEB4-D5848FC01A81}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2D04A47C-464C-44E2-AEB4-D5848FC01A81}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2D04A47C-464C-44E2-AEB4-D5848FC01A81}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2D04A47C-464C-44E2-AEB4-D5848FC01A81}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2A3F8AD5-CC18-4FDB-9A92-1CD97AEF10D7}
+	EndGlobalSection
+EndGlobal

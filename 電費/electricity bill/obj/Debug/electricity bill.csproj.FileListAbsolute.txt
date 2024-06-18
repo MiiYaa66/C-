@@ -1,0 +1,20 @@
+C:\Users\呂銘耀\Desktop\電費\electricity bill\bin\Debug\electricity bill.exe.config
+C:\Users\呂銘耀\Desktop\電費\electricity bill\bin\Debug\electricity bill.exe
+C:\Users\呂銘耀\Desktop\電費\electricity bill\bin\Debug\electricity bill.pdb
+C:\Users\呂銘耀\Desktop\電費\electricity bill\obj\Debug\electricity bill.csprojAssemblyReference.cache
+C:\Users\呂銘耀\Desktop\電費\electricity bill\obj\Debug\electricity_bill.Form1.resources
+C:\Users\呂銘耀\Desktop\電費\electricity bill\obj\Debug\electricity_bill.Properties.Resources.resources
+C:\Users\呂銘耀\Desktop\電費\electricity bill\obj\Debug\electricity bill.csproj.GenerateResource.cache
+C:\Users\呂銘耀\Desktop\電費\electricity bill\obj\Debug\electricity bill.csproj.CoreCompileInputs.cache
+C:\Users\呂銘耀\Desktop\電費\electricity bill\obj\Debug\electricity bill.exe
+C:\Users\呂銘耀\Desktop\電費\electricity bill\obj\Debug\electricity bill.pdb
+D:\sk2_1\user\C#\電費\electricity bill\bin\Debug\electricity bill.exe.config
+D:\sk2_1\user\C#\電費\electricity bill\bin\Debug\electricity bill.exe
+D:\sk2_1\user\C#\電費\electricity bill\bin\Debug\electricity bill.pdb
+D:\sk2_1\user\C#\電費\electricity bill\obj\Debug\electricity bill.csprojAssemblyReference.cache
+D:\sk2_1\user\C#\電費\electricity bill\obj\Debug\electricity_bill.Form1.resources
+D:\sk2_1\user\C#\電費\electricity bill\obj\Debug\electricity_bill.Properties.Resources.resources
+D:\sk2_1\user\C#\電費\electricity bill\obj\Debug\electricity bill.csproj.GenerateResource.cache
+D:\sk2_1\user\C#\電費\electricity bill\obj\Debug\electricity bill.csproj.CoreCompileInputs.cache
+D:\sk2_1\user\C#\電費\electricity bill\obj\Debug\electricity bill.exe
+D:\sk2_1\user\C#\電費\electricity bill\obj\Debug\electricity bill.pdb
